@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- English Version -->
+  <url>
+    <loc>https://atlantiquetc17.fr/en/index.html</loc>
+    <lastmod>2023-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://atlantiquetc17.fr/en/annual-services.html</loc>
+    <lastmod>2023-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://atlantiquetc17.fr/en/seasonal-services.html</loc>
+    <lastmod>2023-08-24</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://atlantiquetc17.fr/en/contact.html</loc>
+    <lastmod>2023-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  
+  <!-- French Version -->
+  <url>
+    <loc>https://atlantiquetc17.fr/fr/index.html</loc>
+    <lastmod>2023-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://atlantiquetc17.fr/fr/services-annuels.html</loc>
+    <lastmod>2023-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://atlantiquetc17.fr/fr/services-saisonniers.html</loc>
+    <lastmod>2023-08-24</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://atlantiquetc17.fr/fr/contact.html</loc>
+    <lastmod>2023-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  
+</urlset>

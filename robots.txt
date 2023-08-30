@@ -1,0 +1,11 @@
+# robots.txt for Tennis Club Website
+
+User-agent: *
+Disallow: 
+
+# Allow crawling of language-specific HTML files
+Allow: /fr/
+Allow: /en/
+
+# Sitemap location
+Sitemap: https://atlantiquetc17.fr/sitemap.xml
