@@ -6,7 +6,7 @@ Welcome to the repository for our tennis club website. Hosted on GitHub Pages, t
 
 ### 1. **Homepage**
 
-- **Header**: Features an image, logo, and the name of the association who owns the tennis clubs.
+- **Header**: Features an image, the logo, and the name of the association who owns the tennis clubs.
 - **Welcome Introduction**: A brief welcoming note to our visitors.
 - **Activity Gallery**: Displays images showcasing the various activities offered by the club.
 - **Our Clubs**:
